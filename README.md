@@ -1,17 +1,11 @@
-# tailwindcss-proj
+<h1>tailwindcss-proj</h1>
 
-Usage
+    <h2>Usage</h2>
+    <p>Install dependencies (Tailwind)</p>
+    <pre><code>npm install</code></pre>
+    <p>Run the Tailwind CLI to compile the input.css during development. The output file is css/main.css</p>
+    <pre><code>npm run watch</code></pre>
+    <p>To build once run...</p>
+    <pre><code>npm run build</code></pre>
 
-Install dependencies (Tailwind)
-
-npm install
-
-Run the Tailwind CLI to compile the input.css during development. The output file is css/main.css
-
-npm run watch
-
-To build once run...
-
-npm run build
-
-You can edit the scripts in package.json and the tailwind.config.js file to change input/output locations
+    <h2>Clipboard landing page from <a href="https://www.frontendmentor.io/challenges/clipboard-landing-page-5cc9bccd6c4c91111378ecb9">Frontend Mentor Challenge</a></h2>
